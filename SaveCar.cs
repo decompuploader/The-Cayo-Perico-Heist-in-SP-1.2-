@@ -1,9 +1,3 @@
-// Decompiled with JetBrains decompiler
-// Type: CayoPericoHeistInSP.SaveCar
-// Assembly: CayoPericoHeistInSP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: A775A51E-52D1-4ADD-B48D-226793E60419
-// Assembly location: C:\Users\EOL\Desktop\GTA\decompiles\CayoPericoHeistInSP.dll
-
 using GTA;
 using GTA.Math;
 using GTA.Native;
